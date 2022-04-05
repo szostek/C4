@@ -1,5 +1,5 @@
 {
-  "name": "oddchain",
+  "name": "C4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,15 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sandermoen/instaclone.git"
+    "url": "git+https://github.com/szostek/C4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sandermoen/instaclone/issues"
-  },
-  "homepage": "https://github.com/Sandermoen/instaclone#readme",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
